@@ -6,3 +6,7 @@
 - Скачайте папку Lessons
 - Запустите index.html
 - Наслаждайтесь
+## Контакты
+- VK : [Изнаирова Рина](https://vk.com/sadzzuki)
+- Telegram: @suzzki
+- mail : tekashiki.kijimi@gmail.com
